@@ -1,6 +1,6 @@
 {
     "name": "angular-chart-responsive",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": [
         "./angular-chart-responsive.js"
     ],
