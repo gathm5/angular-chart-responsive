@@ -1,0 +1,30 @@
+{
+    "name": "angular-chart-responsive",
+    "version": "1.0.0",
+    "main": [
+        "./Chart.js",
+        "./angular-chart.js"
+    ],
+    "authors": "Gautham Stalin <gauthamstalin@gmail.com>",
+    "description": "Responsive angular chart using Chart.js",
+    "moduleType": [
+        "globals"
+    ],
+    "keywords": [
+        "angular",
+        "angular.js",
+        "chartjs",
+        "chart",
+        "responsive",
+        "graph",
+        "bar",
+        "donut",
+        "chart directive"
+    ],
+    "ignore": [
+        "**/.*"
+    ],
+    "dependencies": {
+        "angular": "~1.2.0"
+    }
+}

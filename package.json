@@ -1,0 +1,13 @@
+{
+    "name": "angular-chart-responsive",
+    "version": "1.0.0",
+    "description": "Responsive angular chart using Chart.js",
+    "main": [
+        "./Chart.js",
+        "./angular-chart.js"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "authors": "Gautham Stalin <gauthamstalin@gmail.com>"
+}
