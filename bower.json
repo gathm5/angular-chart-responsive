@@ -2,8 +2,7 @@
     "name": "angular-chart-responsive",
     "version": "1.0.0",
     "main": [
-        "./Chart.js",
-        "./angular-chart.js"
+        "./angular-chart-responsive.js"
     ],
     "authors": "Gautham Stalin <gauthamstalin@gmail.com>",
     "description": "Responsive angular chart using Chart.js",
@@ -25,6 +24,9 @@
         "**/.*"
     ],
     "dependencies": {
-        "angular": "~1.2.0"
-    }
+        "Chart.js": "~1.0.1",
+        "angular": ">1.2.0"
+    },
+    "homepage": "https://github.com/gautham1985/angular-chart-responsive",
+    "license": "MIT"
 }
